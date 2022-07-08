@@ -1,0 +1,13 @@
+name: clippers
+title: clippers
+username: david
+account: david
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 8896
+bundleId: 44295
+url: https://colorado.rstudio.com/rsc/clippers/
+when: 1616680985.56648
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rprofile
